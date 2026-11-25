@@ -1,0 +1,15 @@
+﻿*.wav
+*.npy
+*.zip
+input/
+output/
+.cache/
+.waveform_cache/
+deep_learning_noise_reduction_challenge/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+results/
+runs/
+*.tmp
